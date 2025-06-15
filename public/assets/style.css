@@ -1,0 +1,17 @@
+body{
+    background-image: url(/restapi/public/images/shootingstar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;               
+    margin: 0;
+}
+
+#location-select{
+    margin: 30px 15px;
+    font-family: "Poppins";
+    font-size: 25px;
+    font-weight: 400;
+    color: rgb(250, 160, 103);
+
+}
